@@ -3,15 +3,122 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>AMMNIR MINES | Mining & Mineral Trading</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #222;
+            background: #f5f5f5;
+        }
+
+        header {
+            background: #111;
+            color: white;
+            padding: 20px 8%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        header h1 {
+            color: #d4a017;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin-left: 20px;
+        }
+
+        nav a:hover {
+            color: #d4a017;
+        }
+
+        .hero {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 100px 20px;
+        }
+
+        .hero h2 {
+            font-size: 45px;
+            margin-bottom: 15px;
+        }
+
+        .hero p {
+            font-size: 20px;
+            margin-bottom: 25px;
+        }
+
+        .button {
+            display: inline-block;
+            background: #d4a017;
+            color: #111;
+            padding: 13px 25px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        section {
+            padding: 60px 8%;
+            background: white;
+            margin-bottom: 2px;
+        }
+
+        section h2 {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #222;
+        }
+
+        .cards {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+
+        .card {
+            background: #f5f5f5;
+            padding: 25px;
+            width: 280px;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .card h3 {
+            color: #b8860b;
+            margin-bottom: 10px;
+        }
+
+        .contact {
+            text-align: center;
+        }
+
+        footer {
+            background: #111;
+            color: white;
+            text-align: center;
+            padding: 25px;
+        }
+    </style>
 </head>
 
 <body>
 
-    <header>
-        <h1>AMMNIR MINES</h1>
-        <p>Mining • Mineral Trading • Sourcing • Commodity Solutions</p>
-    </header>
+<header>
+    <h1>AMMNIR MINES</h1>
 
     <nav>
         <a href="#about">About</a>
@@ -19,48 +126,103 @@
         <a href="#services">Services</a>
         <a href="#contact">Contact</a>
     </nav>
+</header>
 
-    <section id="about">
-        <h2>About AMMNIR MINES</h2>
-        <p>
-            AMMNIR MINES is a Nigeria-based mining and mineral trading company
-            focused on sourcing, procurement, trading and supply of mineral
-            commodities.
-        </p>
-    </section>
+<section class="hero">
+    <h2>AMMNIR MINES</h2>
+    <p>Mining • Mineral Trading • Sourcing • Commodity Solutions</p>
+    <a class="button" href="#contact">Contact Us</a>
+</section>
 
-    <section id="minerals">
-        <h2>Our Minerals</h2>
-        <ul>
-            <li>Lithium</li>
-            <li>Lead</li>
-            <li>Zinc</li>
-            <li>Fluorite</li>
-            <li>Zircon</li>
-            <li>Tantalite</li>
-        </ul>
-    </section>
+<section id="about">
+    <h2>About AMMNIR MINES</h2>
 
-    <section id="services">
-        <h2>Our Services</h2>
-        <p>Mineral sourcing and procurement</p>
-        <p>Mineral trading</p>
-        <p>Commodity supply</p>
-        <p>Logistics coordination</p>
-        <p>Business partnerships</p>
-    </section>
+    <p style="text-align:center; max-width:800px; margin:auto;">
+        AMMNIR MINES is a Nigeria-based mining and mineral trading company
+        focused on sourcing, procurement, trading and supply of mineral
+        commodities. We connect reliable mineral suppliers with qualified
+        buyers while focusing on quality, transparency and dependable supply.
+    </p>
+</section>
 
-    <section id="contact">
-        <h2>Contact Us</h2>
-        <p>AMMNIR MINES</p>
-        <p>Nigeria</p>
-        <p>Email: Munirmadam0@gmail.com</p>
-        <p>Phone: 08104011037</p>
-    </section>
+<section id="minerals">
+    <h2>Minerals We Trade</h2>
 
-    <footer>
-        <p>© 2026 AMMNIR MINES. All rights reserved.</p>
-    </footer>
+    <div class="cards">
+
+        <div class="card">
+            <h3>Lithium</h3>
+            <p>Reliable sourcing and supply of lithium ore.</p>
+        </div>
+
+        <div class="card">
+            <h3>Tantalite</h3>
+            <p>Quality tantalite sourcing for qualified buyers.</p>
+        </div>
+
+        <div class="card">
+            <h3>Lead</h3>
+            <p>Lead ore sourcing and commodity trading.</p>
+        </div>
+
+        <div class="card">
+            <h3>Zinc</h3>
+            <p>Zinc ore sourcing and supply solutions.</p>
+        </div>
+
+        <div class="card">
+            <h3>Fluorite</h3>
+            <p>Fluorite sourcing and mineral supply.</p>
+        </div>
+
+        <div class="card">
+            <h3>Zircon</h3>
+            <p>Zircon sand sourcing and trading.</p>
+        </div>
+
+    </div>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>Mineral Sourcing</h3>
+            <p>We source mineral commodities from reliable suppliers.</p>
+        </div>
+
+        <div class="card">
+            <h3>Mineral Trading</h3>
+            <p>We facilitate mineral transactions between suppliers and buyers.</p>
+        </div>
+
+        <div class="card">
+            <h3>Commodity Solutions</h3>
+            <p>We provide dependable solutions for mineral supply and logistics.</p>
+        </div>
+
+    </div>
+</section>
+
+<section id="contact" class="contact">
+    <h2>Contact AMMNIR MINES</h2>
+
+    <p><strong>Phone:</strong> 08104011037</p>
+    <p><strong>Email:</strong> Munirmadam0@gmail.com</p>
+    <p><strong>Location:</strong> Bauchi Road, Nigeria</p>
+
+    <br>
+
+    <a class="button" href="mailto:Munirmadam0@gmail.com">
+        Email Us
+    </a>
+</section>
+
+<footer>
+    <p>© 2026 AMMNIR MINES. All Rights Reserved.</p>
+</footer>
 
 </body>
 </html>
