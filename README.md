@@ -1,12 +1,47 @@
-AMMNIR MINES
+# AMMNIR MINES
 
-Mining • Mineral Trading • Sourcing • Commodity Solutions
+### Mining • Mineral Trading • Sourcing • Commodity Solutions
+
+**Connecting Nigerian mineral resources with local and international markets.**
+
+---
+
+## 🏢 About AMMNIR MINES
 
 AMMNIR MINES is a Nigeria-based mining and mineral trading company focused on the sourcing, procurement, trading, and supply of mineral commodities.
 
-We connect reliable mineral suppliers with local and international buyers while focusing on quality, transparency, and dependable supply.
+We connect reliable mineral suppliers with qualified buyers while focusing on quality, transparency, and dependable supply.
 
-Our Services
+---
+
+## ⛏️ Minerals
+
+We source and trade a range of mineral commodities, including:
+
+- Lithium
+- Tantalite
+- Lead
+- Zinc
+- Fluorite
+- Zircon
+- Other mineral commodities based on buyer specifications
+
+---
+
+## 🌍 Our Markets
+
+We work to develop supply and trading relationships across:
+
+- Nigeria
+- China
+- India
+- United Arab Emirates
+- Thailand
+- Other international markets
+
+---
+
+## 💼 Our Services
 
 - Mineral sourcing and procurement
 - Mineral trading
@@ -16,56 +51,46 @@ Our Services
 - Logistics and delivery coordination
 - Business partnerships and supply arrangements
 
-Minerals
+---
 
-Our areas of interest include:
+## 🤝 Partnerships
 
-- Lithium
-- Tantalite
-- Lead
-- Zinc
-- Fluorite
-- Zircon
-- Other commercially viable mineral commodities
-
-Our Approach
-
-We work with suppliers, processors, traders, and buyers to build reliable mineral supply chains.
-
-Our focus is on:
-
-Quality — Materials are evaluated against agreed specifications.
-
-Reliability — We work toward consistent and dependable supply.
-
-Transparency — Clear communication and agreed commercial terms.
-
-Partnership — Building long-term relationships with suppliers and buyers.
-
-Business Opportunities
-
-AMMNIR MINES welcomes partnerships with:
+We welcome partnerships with:
 
 - Mineral suppliers
-- Mining companies
-- Processors and refineries
-- Commodity traders
 - International buyers
-- Logistics partners
-- Investors and strategic partners
-
-For business inquiries and partnerships, please contact AMMNIR MINES directly.
-
-Location
-
-Nigeria
-
-Contact
-
-AMMNIR MINES
-
-For mineral supply, sourcing, purchasing, and partnership opportunities, contact our business team.
+- Trading companies
+- Processing companies
+- Logistics providers
+- Investors
+- Strategic business partners
 
 ---
 
-AMMNIR MINES — Connecting Mineral Resources to Global Markets.
+## 🚚 Logistics
+
+We coordinate mineral transportation, loading, warehouse delivery, supplier-to-buyer transportation, and other logistics requirements related to mineral transactions.
+
+---
+
+## 📈 Projects
+
+Our projects focus on developing reliable mineral supply channels, connecting Nigerian resources to qualified buyers, and building long-term international trading relationships.
+
+---
+
+## 📞 Contact
+
+**AMMNIR MINES**  
+Nigeria
+
+**Phone:** +234 810 401 1037  
+**Email:** munirmadam0@gmail.com
+
+For business, mineral supply, purchasing, and partnership inquiries, please contact us.
+
+---
+
+### AMMNIR MINES
+
+**Mining • Mineral Trading • Sourcing • Commodity Solutions**
